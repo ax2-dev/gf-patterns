@@ -81,6 +81,16 @@
     "year=",
     "article=",
     "utm_campaign=",
-    "[a-zA-Z]+id="
+    "[a-zA-Z]+id=",
+    "onerror=",
+    "onload=",
+    "onclick=",
+    "onmouseover=",
+    "onfocus=",
+    "onblur=",
+    "onchange=",
+    "oninput=",
+    "onkeydown=",
+    "onkeypress="
   ]
 }
